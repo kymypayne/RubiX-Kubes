@@ -46,11 +46,7 @@
     background-color: var(--secondary-color);
     color: #FFF;
 }
-.bg-secondary,
-.btn-secondary{
-    background-color: var(--secondary-color);
-    color: #FFF;
-}
+
 .bg-dark,
 .btn-dark {
     background-color: var(--dark-color);
@@ -79,16 +75,13 @@
 
 .text-primary {
    color: var(--primary-color);
-   background-color: #FFF;
 }
 
 .text-secondary {
     color: var(--secondary-color);
-    background-color: #FFF;
 }
 .text-dark {
    color: var(--dark-color);
-    background-color: #FFF;
 }
 .text-light {
     color: var(--light-color);
@@ -163,7 +156,7 @@
 /* Margin- rem unit is a css unit, a multipler of the root element*/
 
 .my-1 {
-    mergin: 1rem 0;
+    margin: 1rem 0;
 }
 
 .my-2 {
